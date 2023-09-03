@@ -26,4 +26,4 @@
 Please note that this script assumes you have the required tools installed on your system and have set up the necessary dependencies. Make sure to update the tool paths and install any missing dependencies before running the script.
 
 ### License:
-Idle recon is an open-source tool released under the [MIT License.](/LICENSE)
+Idle-recon is an open-source tool released under the [MIT License.](/LICENSE)
